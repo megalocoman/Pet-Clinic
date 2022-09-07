@@ -1,5 +1,4 @@
-package com.cfjofre;
-
+package com.cfjofre.web;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
