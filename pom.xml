@@ -4,7 +4,7 @@
 	
 	<groupId>com.example</groupId>
 	<artifactId>Pet-Clinic</artifactId>
-	<version>0.0.1</version>
+	<version>0.0.2-SNAPSHOT</version>
 	
 		
 	<modules>
@@ -63,7 +63,7 @@
 	
 	<scm>
 		<developerConnection>scm:git:https://github.com/megalocoman/Pet-Clinic.git</developerConnection>
-	  <tag>Pet-Clinic-0.0.1</tag>
+	  <tag>HEAD</tag>
   </scm>
 
 
